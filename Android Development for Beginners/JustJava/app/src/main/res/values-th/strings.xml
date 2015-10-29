@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="topping_header">ท็อปปิ้ง</string>
+    <string name="order_for">JustJava คำสั่งซื้อ ของ</string>
+    <string name="add_whipped_cream">เพิ่ม วิปป์ครีม?</string>
+    <string name="add_chocolate">เพิ่ม ช็อคโกแลท</string>
+    <string name="quantity">จำนวน : </string>
+    <string name="whipped_cream">วิปป์ครีม</string>
+    <string name="chocolate">ช็อคโกแลท</string>
+    <string name="total">รวมทั้งหมดราคา : </string>
+    <string name="thank_you">ขอบคุณ!</string>
+    <string name="more_than_100">คุณไม่สามารถสั่งกาแฟได้เกิน 100 แก้ว</string>
+    <string name="less_than_1">คุณไม่สามารถสั่งกาแฟได้น้อยกว่า 1 แก้ว</string>
+    <string name="name">ชื่อ</string>
+    <string name="order">สั่งซื้อ</string>
+    <string name="price">ราคา</string>
+</resources>
